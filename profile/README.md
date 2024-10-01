@@ -1,11 +1,11 @@
-![robotnorge logo teamviewer](https://user-images.githubusercontent.com/45029038/199115974-4ed7b403-d915-4a77-8407-e12f16b1ffd0.jpg)
+![image](https://github.com/user-attachments/assets/9840f1fe-dc38-4697-9145-904cc6ead65d)
 
 # Er du klar for å øke ditt konkurransefortrinn?
 
-**RobotNorge er landets ledende robotiseringsselskap og totalleverandør av robot- og automasjonsløsninger.**
+**TYO Automation er landets ledende robotiseringsselskap og totalleverandør av robot- og automasjonsløsninger.**
 
-RobotNorge AS er eneforhandler av ABB roboter i Norge og utvikler robotløsninger for fremtidens produksjonsbehov. Ny teknologi som avansert sensorikk, kamera og kunstig intelligens (AI) kombineres med tradisjonelle, industrielle ABB-roboter. Dette åpner for mange nye bruksområder i ulike bransjer.
+TYO Automation er eneforhandler av ABB roboter i Norge og utvikler robotløsninger for fremtidens produksjonsbehov. Ny teknologi som avansert sensorikk, kamera og kunstig intelligens (AI) kombineres med tradisjonelle, industrielle ABB-roboter. Dette åpner for mange nye bruksområder i ulike bransjer.
 
 Vår visjon er å bidra aktivt til å skape lønnsom og bærekraftig produksjonsindustri i Norge.
 
-[www.robotnorge.no](https://robotnorge.no/)
+[www.tyo-automation.com](https://tyo-automation.com/)
